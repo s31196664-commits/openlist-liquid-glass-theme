@@ -1,0 +1,20 @@
+# User-provided images are deliberately not distributed.
+wallpapers/*
+!wallpapers/README.md
+*.webp
+*.jpg
+*.jpeg
+*.png
+*.avif
+*.gif
+*.db
+*.db-*
+*.sqlite*
+config.json
+.env
+.env.*
+*.log
+*.zip
+__pycache__/
+*.pyc
+node_modules/

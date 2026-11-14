@@ -1,0 +1,13 @@
+{
+  "name": "openlist-liquid-glass-theme",
+  "version": "1.0.0",
+  "private": true,
+  "description": "KK OpenList glass, rounded UI and configurable wallpaper component",
+  "license": "MIT",
+  "scripts": {
+    "build": "python scripts/build.py",
+    "test": "node --test tests/wallpaper.test.cjs",
+    "pack:theme": "python scripts/build.py --zip"
+  },
+  "engines": { "node": ">=18" }
+}

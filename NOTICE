@@ -1,0 +1,15 @@
+KK OpenList Liquid Glass
+
+The extracted glass theme is based on:
+https://github.com/wugeng20/openlist-glassmorphism-theme
+Copyright (c) 2025 G.E.N.G
+Licensed under the MIT License; the full license is included in LICENSE.
+
+This distribution extracts the KK OpenList adaptation's translucent panels,
+rounded controls, dark/light variables, responsive styles and wallpaper
+controller. The wallpaper controller has been made configurable and hardened
+for empty lists, failed requests, restricted storage and client-side routes.
+
+Site-specific announcements, contact details, branding assets, wallpaper
+catalogue, signed URLs, OpenList server code, databases and configuration
+files are not part of this distribution. No wallpaper image license is granted.
